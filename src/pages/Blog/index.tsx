@@ -4,6 +4,7 @@ import { PostsListContainer } from './styles';
 import { Post } from './components/Post';
 import { useCallback, useEffect, useState } from 'react';
 import { api } from '../../lib/axios';
+import { Spinner } from '../../components/Spinner';
 
 const username = import.meta.env.VITE_GITHUB_USERNAME;
 const repoName = import.meta.env.VITE_GITHUB_REPONAME;
@@ -42,11 +43,13 @@ export function Blog() {
     <>
       <Profile />
       <SearchInput getPosts={getPosts} postsLength={posts.length} />
-      <PostsListContainer>
-        {posts.map((post) => (
-          <Post key={post.number} post={post} />
-        ))}
-      </PostsListContainer>
+      {isLoading ? <Spinner /> : (
+        <PostsListContainer>
+          {posts.map((post) => (
+            <Post key={post.number} post={post} />
+          ))}
+        </PostsListContainer>
+      )}
     </>
   )
 }
