@@ -30,6 +30,7 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-contribuidores">Contribuidores</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
@@ -121,6 +122,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[API Github](https://github.com/public-apis/public-apis)**
 
 > Veja o arquivo  [package.json](https://github.com/JsnEvt/coffeedelivery/blob/main/package.json)
+
+## 👨‍💻 Contribuidores
 
 💜 Sinceros agradecimentos a essa galera espetacular, quem contribuem para melhorar a vida das pessoas e o mundo!!!  👏  :)
 
