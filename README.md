@@ -61,7 +61,7 @@ O layout da aplicação está disponível no Figma:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Appfrontend" title="#Appfrontend" src="./img/initial_page.png" width="400px">
+  <img alt="Appfrontend" title="#Appfrontend" src="./img/inital_page.png" width="400px">
 
 </p>
 
