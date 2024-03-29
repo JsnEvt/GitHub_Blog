@@ -111,14 +111,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
--   **[React](https://github.com/facebook/react)
+-   **[React](https://github.com/facebook/react)**
 -   **[React-hook-form](https://github.com/react-hook-form/resolvers)**
 -   **[React-markdown](https://github.com/remarkjs/react-markdown)**
 -   **[Styled-components](https://github.com/styled-components/styled-components)**
--   **[Typescript](https://github.com/microsoft/TypeScript)
--   **[Vite](https://github.com/vitejs/vite)
--   **[Moment](https://github.com/moment/moment)
--   **[API Github](https://github.com/public-apis/public-apis)
+-   **[Typescript](https://github.com/microsoft/TypeScript)**
+-   **[Vite](https://github.com/vitejs/vite)**
+-   **[Moment](https://github.com/moment/moment)**
+-   **[API Github](https://github.com/public-apis/public-apis)**
 
 
 > Veja o arquivo  [package.json](https://github.com/JsnEvt/coffeedelivery/blob/main/package.json)
